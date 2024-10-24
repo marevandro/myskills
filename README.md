@@ -1,12 +1,11 @@
 # 📱 Projeto MySkills | Trilha React Native | Rocketseat
 
-Este repositório contém o código e as modificações que estou realizando ao acompanhar a trilha de **React Native** da **Rocketseat**. O projeto foi desenvolvido inicialmente com o objetivo de criar uma aplicação simples para gerenciar habilidades (skills) que estou adquirindo ao longo da jornada, e serve como um estudo prático do conteúdo abordado.
+Este repositório contém o código da trilha de **React Native** da **Rocketseat**. 
+O projeto foi desenvolvido inicialmente com o objetivo de criar uma aplicação simples para gerenciar habilidades (skills) que estou adquirindo ao longo da jornada, e serve como um estudo prático do conteúdo abordado.
 
 ## 🚀 Tecnologias Utilizadas
 
-## 🚀 Tecnologias Utilizadas
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 ## 📄 Descrição
@@ -17,24 +16,21 @@ O projeto **MySkills** tem como principal objetivo praticar os conceitos fundame
 
 - Adição de novas habilidades
 - Exibição das habilidades adicionadas
+- Exclusão por click
 - Diferentes mensagens de boas-vindas baseadas no horário do dia
 
-### Mudanças Futuras
+### Mudanças feitas
 
-Estou fazendo alterações e melhorias ao longo do desenvolvimento e aqui estão algumas das próximas adições planejadas:
-
-- [ ] Utilização de **TypeScript** para garantir maior segurança de tipos no projeto.
-- [ ] Implementação de **Styled Components** para a estilização de componentes.
-- [ ] Integração com uma **API** para salvar as habilidades adicionadas.
-- [ ] Implementação de testes automatizados para garantir a robustez do código.
+- [x] Utilização de **TypeScript** para garantir maior segurança de tipos no projeto.
+- [x] Ajuste na ordenação das skills adicionadas
 
 ## 🎥 Demonstração
 
 Aqui está um vídeo curto mostrando o projeto em ação:
 
-**(adicionar link do vídeo quando estiver disponível)**
+https://github.com/user-attachments/assets/894efeb9-b47c-4ecc-8bb6-271390b369fa
 
-Se o vídeo não abrir, [clique aqui](#).
+Se o vídeo não abrir, [clique aqui](https://github.com/marevandro/myskills/issues/1).
 
 ## 🔧 Alterações Realizadas
 
