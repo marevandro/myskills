@@ -11,7 +11,6 @@ interface SkillData {
 export default function Home() {
   const [newSkill, setNewSkill] = useState('');
   const [mySkills, setMySkills] = useState<SkillData[]>([]);
-  console.log("🚀 ~ Home ~ mySkills:", mySkills)
   const [greeting, setGreeting] = useState('')
 
   //handle é usado quando uma função é disparado por uma ação do usuario
